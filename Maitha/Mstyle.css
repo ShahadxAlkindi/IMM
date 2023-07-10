@@ -1,0 +1,99 @@
+@charset "UTF-8";
+#navigation ul
+{
+    list-style-type: none;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 25px;
+}
+#navigation ul li
+{
+    float: left;
+    width: 14%;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+#navigation ul li a
+{
+    display: block;
+    background-color: #523D35;
+    color: #FFFFFF;
+    text-decoration: none;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+#navigation .maitha
+{
+    background-color: #BBA58F;    
+}
+#navigation ul li a:hover 
+{
+    background-color: #BBA58F;
+    text-decoration: none;
+	border-radius: 10px;
+}
+body {
+    background-color: #959D90;
+    padding-top: 5px;
+    text-align: center;
+}
+body h4 {
+    text-align: center;
+    margin-top: 20px;
+    text-shadow: 5px 5px 10px #223030;
+    color: #223030;
+    font-size: 25px;
+    margin-left: 20px;
+}
+body h2 {
+    border-radius: 20px;
+    border-collapse: collapse;
+    padding-top: 50px;
+    padding-right: 5px;
+    padding-bottom: 15px;
+    padding-left: 5px;
+    margin-right: 455px;
+    margin-left: 455px;
+    font-size: 10px;
+}
+body h3 {
+    background-color: #E8D9CD;
+    border-radius: 5px;
+    border-spacing: 10px 10px;
+    border-collapse: collapse;
+    margin-top: 0px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-top: 10px;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    color: #523D35;
+}
+body h1 {
+    color: #523D35;
+   
+}
+body p {
+    background-color: #E8D9CD;
+    border-radius: 5px;
+    border-spacing: 10px 10px;
+    border-collapse: collapse;
+    margin-top: 0px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-top: 10px;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    color: #523D35;
+}
+#footer {
+	text-align: right;
+	padding-right: 9px;
+	color: #223030;
+}
