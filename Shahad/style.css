@@ -118,4 +118,17 @@ iframe {
     padding-right: auto;
     padding-bottom: auto;
     padding-left: auto;
+} 
+#container #contact {
+    text-align: center;
+    text-decoration: none;
+    position: absolute;
+    left: 576px;
+    top: 531px; 
+	color: #523D35;
 }
+#contact p a {
+    text-decoration: none;
+    color: #523D35;
+}
+
