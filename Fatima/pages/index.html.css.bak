@@ -1,0 +1,97 @@
+@charset "utf-8";
+#container #header h1 {
+    text-align: center;
+    color: #223030;
+    background-color: #EFEFE9;
+    border-radius: 10px;
+    font-size: 40px;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+#container #header h1 {
+    text-align: center;
+    color: #223030;
+    background-color: #EFEFE9;
+    border-radius: 10px;
+    font-size: 40px;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+
+#banner video a {
+}
+#Navigation ul li {
+    float: left;
+    width: 14%;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+ul li a {
+    display: block;
+    background-color: #523D35;
+    color: #FFFFFF;
+    text-decoration: none;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+ul li a {
+    background-color: #BBA58F;
+    text-decoration: none;
+    border-radius: 10px;
+}
+#container {
+    background-color: #959D90;
+    border-radius: 10px;
+}
+#footer {
+    text-align: right;
+    padding-right: 9px;
+    color: #223030;
+}
+#mainContent {
+    background-color: #E8D9CD;
+    color: #523D35;
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 20px;
+    text-align: center;
+}
+#mainContent #major p {
+    padding-top: 20px;
+    font-size: 20px;
+    text-align: center;
+}
+#mainContent #nationality img {
+    margin-left: 900px;
+    margin-top: -40px;
+}
+#mainContent #nationality img {
+    margin-left: 900px;
+    margin-top: -100px;
+}
+
+#mainContent #nationality p {
+    margin-bottom: 20px;
+    margin-top: 0px;
+    margin-left: 300px;
+}
+#mainContent #school iframe {
+    margin-top: -110px;
+    margin-left: 200px;
+}
+#mainContent #school p {
+    font-style: normal;
+}
+#mainContent #major p {
+    font-style: normal;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+}
